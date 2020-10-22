@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{393462F0-D155-459D-AB60-21346A2D77E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.healthcheck FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="healthcheck/Program.cs">
+    <Files>
+      <File FileName="healthcheck/Program.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="healthcheck" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shivanshigupta/Projects/healthcheck/healthcheck/Program.cs" relfile="healthcheck/Program.cs" line="10" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
